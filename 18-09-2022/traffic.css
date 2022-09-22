@@ -1,0 +1,44 @@
+.con{background-image: url("https://img.freepik.com/free-vector/red-traffic-light-flat-illustration_1284-22959.jpg?w=2000");
+}
+
+.container{
+    border: solid 1px;
+    height: 175px;
+    width: 70px;
+    background-color: black;
+    margin-bottom: 25px;
+    margin-top: 25px;
+
+ 
+}
+.card1{
+    border: solid 1px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin-left: -5px;
+    background-color: white;
+}
+.card2{
+    border: solid 1px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin-left: -5px;
+    background-color: white;
+}
+.card3{
+    border: solid 1px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin-left: -5px;
+    background-color: white;
+}
+.k{
+    border: hidden;
+   height: 50px;
+   width: 100%;
+   margin-bottom: 50px;
+   margin-top: 50px;
+}
